@@ -1,5 +1,5 @@
 # Font Switcher
-![Logo](/images/logo.jpeg) 
+![Logo](/images/logo.png) 
 
 Font Switcher is the scriptable version of the shortcut [Font Switcher](https://routinehub.co/shortcut/8264/). It supports 29 Unicode fonts that are usable on most platforms (it is missing ⒸⒾⓇⒸⓁⒺⓈ and Sᴍᴀʟʟ Cᴀᴘs from the shortcut). Font switcher allows you to switch fonts from the share sheet, widgets and running the script in scriptable.
 
