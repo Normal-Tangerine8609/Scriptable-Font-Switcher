@@ -113,7 +113,7 @@ if(config.runsInWidget){
    await notify.schedule()
    Script.complete()
 } else if(Object.keys(args.queryParameters)[0]) {
-  //Run with input from widget
+  //Run with input from a widget
   let alert = new Alert()
   alert.title = "Enter Text Or Use Clipboard"
   alert.addTextField("Enter Text")
